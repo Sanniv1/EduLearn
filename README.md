@@ -1,6 +1,4 @@
----
-
- EduLearn - Educational Platform  
+ 📃*EduLearn - Educational Platform*
 
 **EduLearn** is a modern, user-friendly web-based educational platform designed to enhance learning experiences. It offers tools for managing courses, projects, and study materials, all within an intuitive interface.
 
