@@ -103,7 +103,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for m
 
 ---
 
-## 👏 Acknowledgments  
+## 👏 Acknowledgments
 
 - Icons by [Font Awesome](https://fontawesome.com) and [Iconify](https://iconify.design).  
 - UI inspiration from various educational platforms.  
