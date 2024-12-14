@@ -102,7 +102,6 @@ Contributions are welcome!
 This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
 
 ---
-
 ## 👏 Acknowledgments
 
 - Icons by [Font Awesome](https://fontawesome.com) and [Iconify](https://iconify.design).  
